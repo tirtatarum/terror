@@ -1,0 +1,1 @@
+# Nginx Error Template Generator
